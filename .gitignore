@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# text files
+lorem.txt 
+morelorem.txt 
